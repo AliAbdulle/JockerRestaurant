@@ -133,3 +133,8 @@ C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\bin\Deb
 C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\JockerRestaurant.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\JockerRestaurant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\Razor\Views\Restaurants\Create.cshtml.g.cs
+C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\Razor\Views\Restaurants\Delete.cshtml.g.cs
+C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\Razor\Views\Restaurants\Details.cshtml.g.cs
+C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\Razor\Views\Restaurants\Edit.cshtml.g.cs
+C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\Razor\Views\Restaurants\Index.cshtml.g.cs
