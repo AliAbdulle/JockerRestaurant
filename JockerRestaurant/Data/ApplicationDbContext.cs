@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using JockerRestaurant.Models;
 
 namespace JockerRestaurant.Data
 {
@@ -12,5 +13,6 @@ namespace JockerRestaurant.Data
             : base(options)
         {
         }
+        public DbSet<JockerRestaurant.Models.Restaurant> Restaurant { get; set; }
     }
 }
