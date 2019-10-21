@@ -14,5 +14,6 @@ namespace JockerRestaurant.Data
         {
         }
         public DbSet<JockerRestaurant.Models.Restaurant> Restaurant { get; set; }
+        public DbSet<JockerRestaurant.Models.Menu> Menu { get; set; }
     }
 }
