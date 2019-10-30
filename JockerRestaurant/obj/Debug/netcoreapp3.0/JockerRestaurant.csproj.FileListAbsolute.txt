@@ -142,3 +142,4 @@ C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Deb
 C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\Razor\Views\Menus\Details.cshtml.g.cs
 C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\Razor\Views\Menus\Edit.cshtml.g.cs
 C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\Razor\Views\Menus\Index.cshtml.g.cs
+C:\Users\Ali Dhobey\workspace\Projects\JockerRestaurant\JockerRestaurant\obj\Debug\netcoreapp3.0\JockerRestaurant.csprojAssemblyReference.cache
